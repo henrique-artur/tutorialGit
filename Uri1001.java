@@ -10,5 +10,6 @@ public class Uri1001 {
 
         a = leitor.nextInt();
         b = leitor.nextInt();
+        System.out.println("PROD = " + (a * b));
     }
 }
